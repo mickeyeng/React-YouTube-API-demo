@@ -1,0 +1,24 @@
+.search-bar {
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+
+.video-detail .details {
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+.details {
+    margin-top: 5%;
+    
+}
